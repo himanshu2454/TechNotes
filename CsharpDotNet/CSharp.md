@@ -10,7 +10,7 @@ Let's say we have normal class which contains a method **AreEqual**, here the da
 we can implement this methods for a single data type only.
 
 
-```c
+```js
     public class NormalClass {
 
         //Can support one data type at a time either int or string .. for both the params.
